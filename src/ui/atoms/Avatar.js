@@ -4,9 +4,9 @@ import PropTypes from "prop-types";
 import Sizes from "../particles/Sizes";
 
 export const sizes = {
-    small: "70px",
-    medium: "90px",
-    big: "110px"
+    small: "32px",
+    medium: "36px",
+    big: "42px"
 };
 
 const AvatarWrapper = styled.div`
